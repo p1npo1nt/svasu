@@ -50,11 +50,11 @@
         My Work
         <span class="link-symbol">μ</span>
       </a>
-      <a class="link-box text-1xl font-bold text-slate-500" href="https://medium.com/@vgovardhanen">
+      <a class="link-box text-1xl font-bold text-slate-500" href="https://medium.com/@vgovardhanen" target="_blank" rel="noreferrer">
         Writings
         <span class="link-symbol">ψ</span>
       </a>
-      <a class="link-box text-1xl font-bold text-slate-500" href="https://www.youtube.com/@vasugova" target="_blank">
+      <a class="link-box text-1xl font-bold text-slate-500" href="https://www.youtube.com/@vasugova" target="_blank" rel="noreferrer">
           YouTube
           <span class="link-symbol">γ</span>
       </a>
