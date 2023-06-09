@@ -50,7 +50,7 @@
         My Work
         <span class="link-symbol">μ</span>
       </a>
-      <a class="link-box text-1xl font-bold text-slate-500" href=" ">
+      <a class="link-box text-1xl font-bold text-slate-500" href="https://medium.com/@vgovardhanen">
         Writings
         <span class="link-symbol">ψ</span>
       </a>
