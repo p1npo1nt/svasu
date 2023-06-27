@@ -7,7 +7,7 @@
 
 <style>
   .custom-font {
-    font-family: 'Mukta'; /* Replace with your desired font or import a custom font */
+    font-family: 'Mukta'; 
   }
   .link-box {
     display: inline-flex;
@@ -40,18 +40,18 @@
     <H1>Vasudevan Govardhanen</H1>
 
     <p class="text-2xl font-bold text-slate-500">
-      Number Theorist & Analyst
+      Applied Math/Theoretical Physics
     </p>
     
   </div>
   <div class="flex flex-wrap gap-5">
     <div class="button-container">
-      <a class="link-box text-1xl font-bold text-slate-500" href="/">
+      <a class="link-box text-1xl font-bold text-slate-500" href="https://drive.google.com/drive/folders/1_ygnLa9zkUxNw0JrnqHNF8b4-uMmmTPv?usp=drive_link">
         My Work
         <span class="link-symbol">μ</span>
       </a>
       <a class="link-box text-1xl font-bold text-slate-500" href="https://medium.com/@vgovardhanen" target="_blank" rel="noreferrer">
-        Writings
+        Blog
         <span class="link-symbol">ψ</span>
       </a>
       <a class="link-box text-1xl font-bold text-slate-500" href="https://www.youtube.com/@vasugova" target="_blank" rel="noreferrer">
