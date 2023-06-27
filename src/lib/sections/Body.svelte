@@ -36,7 +36,7 @@
 
 <div class="flex w-full flex-col gap-10 md:w-2/4">
   <div class="flex flex-col items-start gap-4">
-    <Pill>Mathematician → Manalapan High School </Pill>
+    <Pill>Student → Manalapan High School </Pill>
     <H1>Vasudevan Govardhanen</H1>
 
     <p class="text-2xl font-bold text-slate-500">
