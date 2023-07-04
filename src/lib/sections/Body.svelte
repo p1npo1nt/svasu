@@ -40,7 +40,7 @@
     <H1>Vasudevan Govardhanen</H1>
 
     <p class="text-2xl font-bold text-slate-500">
-      Applied Math/Theoretical Physics
+      Physics and Math
     </p>
     
   </div>
