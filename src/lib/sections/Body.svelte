@@ -54,10 +54,6 @@
         Blog
         <span class="link-symbol">ψ</span>
       </a>
-      <a class="link-box text-1xl font-bold text-slate-500" href="https://www.youtube.com/@vasugova" target="_blank" rel="noreferrer">
-          YouTube
-          <span class="link-symbol">γ</span>
-      </a>
       <a class="link-box text-1xl font-bold text-slate-500" href="https://github.com/p1npo1nt" target="_blank" rel="noreferrer">
         Github
         <span class="link-symbol"></span>
