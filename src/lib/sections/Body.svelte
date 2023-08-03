@@ -7,7 +7,7 @@
 
 <style>
   .custom-font {
-    font-family: 'Mukta'; 
+    font-family: 'Mukta'; /* Replace with your desired font or import a custom font */
   }
   .link-box {
     display: inline-flex;
@@ -36,23 +36,27 @@
 
 <div class="flex w-full flex-col gap-10 md:w-2/4">
   <div class="flex flex-col items-start gap-4">
-    <Pill>Student → Manalapan High School </Pill>
+    <Pill>Mathematician → Manalapan High School </Pill>
     <H1>Vasudevan Govardhanen</H1>
 
     <p class="text-2xl font-bold text-slate-500">
-      Working on condensed-matter physics
+      Number Theorist & Analyst
     </p>
     
   </div>
   <div class="flex flex-wrap gap-5">
     <div class="button-container">
-      <a class="link-box text-1xl font-bold text-slate-500" href="https://drive.google.com/drive/folders/1_ygnLa9zkUxNw0JrnqHNF8b4-uMmmTPv?usp=drive_link">
+      <a class="link-box text-1xl font-bold text-slate-500" href="/">
         My Work
         <span class="link-symbol">μ</span>
       </a>
       <a class="link-box text-1xl font-bold text-slate-500" href="https://medium.com/@vgovardhanen" target="_blank" rel="noreferrer">
         Blog
         <span class="link-symbol">ψ</span>
+      </a>
+      <a class="link-box text-1xl font-bold text-slate-500" href="https://drive.google.com/file/d/1LzcFGsTTF0vkENP8sOYYkxJ-VnQwqbRD/view?usp=sharing" target="_blank" rel="noreferrer">
+          Intro to Group Theory
+          <span class="link-symbol">γ</span>
       </a>
       <a class="link-box text-1xl font-bold text-slate-500" href="https://github.com/p1npo1nt" target="_blank" rel="noreferrer">
         Github
