@@ -66,7 +66,7 @@
     </div>
   </div>
   <div class="flex flex-wrap gap-5">
-    <Pill>vgovardhanen@gmail.com  ◆ +1 848 468 0877</Pill>
+    <Pill>vgovardhanen (at) gmail (dot) com</Pill>
   </div>
 </div>
 
